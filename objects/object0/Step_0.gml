@@ -11,20 +11,15 @@ moveX = 0;
 moveY = 0;
 
 // Intended Movement - not moving yet
-if(inputLeft){
-	moveX = -SPD;
-} else if(inputRight){
-	moveX = SPD;
-} else if(inputUp){
-	moveY = -SPD;
-} else if(inputDown){
-	moveY = SPD;
+moveX = (inputRight - inputLeft) * SPD;
+if (moveX == 0){
+	moveY = (inputDown - inputUp) * SPD;
 }
 
 // Collision Checks
-if(COLLISION){
-	moveX = 0;
-}
+//if(COLLISION){
+//	moveX = 0;
+//}
 
 // Apply Movement
 x += moveX;
