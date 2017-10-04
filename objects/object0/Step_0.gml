@@ -1,13 +1,13 @@
 /// @description 
-if(keyboard_check(ord("A"))){
-	x = x - 1;
+if(keyboard_check(vk_left)){
+	x -= 2;
 }
-if(keyboard_check(ord("D"))){
-	x = x + 1;
+if(keyboard_check(vk_right)){
+	x += 2;
 }
-if(keyboard_check(ord("W"))){
-	y = y - 1;
+if(keyboard_check(vk_up)){
+	y -= 2;
 }
-if(keyboard_check(ord("S"))){
-	y = y + 1;
+if(keyboard_check(vk_down)){
+	y += 2;
 }
