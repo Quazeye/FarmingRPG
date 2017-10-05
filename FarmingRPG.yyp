@@ -39,6 +39,25 @@
     },
     "resources": [
         {
+            "Key": "0252ec49-b0e6-4d26-a74b-8d3ecf5470c3",
+            "Value": {
+                "id": "1603cf8f-20d0-4ba4-a611-54eef68b9c6b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sCollision\/sCollision.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "08108661-e485-47cc-bedf-59666ab9ec98",
             "Value": {
                 "id": "80ace341-646b-4c58-b976-8a72a280fa9d",
@@ -72,7 +91,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/object0\/object0.yy",
+                "resourcePath": "objects\/oPlayer\/oPlayer.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -243,7 +262,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\/rm0\/rm0.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -305,6 +324,25 @@
             }
         },
         {
+            "Key": "a0541bf0-b69b-43e9-a23d-d7fa87790cef",
+            "Value": {
+                "id": "aeb4bcd5-f9d3-4052-8378-258c5385e20d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oCollision\/oCollision.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "aa256528-cf21-4fb8-b2b0-304b6e082350",
@@ -357,7 +395,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sprite0\/sprite0.yy",
+                "resourcePath": "sprites\/sPlayer\/sPlayer.yy",
                 "resourceType": "GMSprite"
             }
         },
