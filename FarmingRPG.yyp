@@ -191,6 +191,25 @@
             }
         },
         {
+            "Key": "3291d132-8c1d-4fc9-bef1-6777fda9c77f",
+            "Value": {
+                "id": "5a44379a-6a43-4270-8c75-105f78ef7725",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sTileTerrain\/sTileTerrain.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "37f2cf06-3dc9-4115-8534-fcb615915985",
             "Value": {
                 "id": "daadfd4d-2e90-4b80-a914-f8544eb7d4df",
@@ -476,6 +495,25 @@
             }
         },
         {
+            "Key": "75221578-ecaf-4a2f-b140-936c85b0e538",
+            "Value": {
+                "id": "01086f50-cdab-4955-a085-874d5623d634",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "tilesets\/tileTerrain\/tileTerrain.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "ed3f7122-77bf-4883-9f4b-184035bc2d94",
@@ -606,6 +644,25 @@
                 ],
                 "resourcePath": "sprites\/sBaseFemale5\/sBaseFemale5.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "920408ad-3834-49a3-a1a2-c168b73c4dd8",
+            "Value": {
+                "id": "15143098-8469-4547-aa28-4ac8115cedf1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "tilesets\/tileCottage\/tileCottage.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -875,25 +932,6 @@
             }
         },
         {
-            "Key": "c960950d-7803-4716-94f7-6232bab3c62b",
-            "Value": {
-                "id": "a3053f8f-571a-4c38-829f-615227a32817",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/sPlayer\/sPlayer.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "c5232336-6d30-4e2a-8484-e5966a440d67",
@@ -929,6 +967,25 @@
                 ],
                 "resourcePath": "views\/ced5f11d-8688-41bd-be2a-2fa75d37aa0f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d70bd2b0-bc87-43e1-a8a5-affa0adf91ce",
+            "Value": {
+                "id": "bca1a87d-9af5-48dd-b222-41056a9296cc",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sTileCottage\/sTileCottage.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
