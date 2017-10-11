@@ -55,4 +55,3 @@ if(spriteHair != 1) {
 	draw_sprite_part(spriteHair, 0, floor(xFrame) * frameSize, yFrame * frameSize, frameSize, frameSize, xx, yy);
 }
 
-draw_rectangle_color(bbox_left, bbox_top, bbox_right, bbox_bottom, c_yellow, c_yellow, c_yellow, c_yellow, true);

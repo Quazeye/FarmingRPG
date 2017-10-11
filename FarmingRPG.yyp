@@ -343,6 +343,25 @@
             }
         },
         {
+            "Key": "4c277f78-fbd0-49b0-a7f9-ab0449eef017",
+            "Value": {
+                "id": "e52a6e7a-be03-4eb6-ae82-496be6783e67",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Game\/Game.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4c96463c-b0dd-4a9d-983d-a15637be34ae",
             "Value": {
                 "id": "c973acc8-a63a-4531-be84-7a2e3fa67a74",
@@ -552,6 +571,25 @@
             }
         },
         {
+            "Key": "7538ff6d-e0ff-4946-8147-6bdbe83a976f",
+            "Value": {
+                "id": "7ec888f2-fe77-4721-83b8-7e88146d0ebb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/rm0\/rm0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "ed3f7122-77bf-4883-9f4b-184035bc2d94",
@@ -661,7 +699,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/rm0\/rm0.yy",
+                "resourcePath": "rooms\/rm1\/rm1.yy",
                 "resourceType": "GMRoom"
             }
         },
