@@ -229,6 +229,25 @@
             }
         },
         {
+            "Key": "3489017f-c7f3-458b-bf2c-bb4b4cd0e9d0",
+            "Value": {
+                "id": "1709750c-ab9c-43c9-837c-e4d7ce32c995",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/rmFarmHouse\/rmFarmHouse.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "37f2cf06-3dc9-4115-8534-fcb615915985",
             "Value": {
                 "id": "daadfd4d-2e90-4b80-a914-f8544eb7d4df",
@@ -685,6 +704,25 @@
             }
         },
         {
+            "Key": "858ac593-d003-4cc2-beb9-31e6437894ad",
+            "Value": {
+                "id": "89cdba9b-2c85-4d05-b239-2b7d18fa138c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sTileInterior\/sTileInterior.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "85d82285-1eb8-45d7-a41d-267de6e85632",
             "Value": {
                 "id": "6cd7cfa4-df17-437d-91f7-3aafcaee2d01",
@@ -699,7 +737,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/rm1\/rm1.yy",
+                "resourcePath": "rooms\/rmFarm\/rmFarm.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -948,6 +986,25 @@
                 ],
                 "resourcePath": "sprites\/sFeetFemaleLongbootsBrown\/sFeetFemaleLongbootsBrown.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a2ca137b-9392-4911-937b-bda12e800e06",
+            "Value": {
+                "id": "d86fbe40-9f8f-4620-8f79-d689f49df475",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "tilesets\/tileInterior\/tileInterior.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
